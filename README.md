@@ -34,10 +34,4 @@ Have a challenge for a Freelancer ? Let's Work Together
 
 ---
 
-### Some Numbers
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JConan&layout=compact&theme=blue-green)
-
----
-
 *Available for freelance missions. Full remote, async communication.*
