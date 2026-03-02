@@ -1,46 +1,34 @@
 <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JConan.JConan) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goudy+Bookletter+1911&size=52&width=800&height=100&lines=Welcome+to+my+coding+lair;I+am+a+Software+Engineer;Lost+in+the+coding+matrix)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goudy+Bookletter+1911&size=52&width=800&height=100&lines=Welcome+to+my+coding+lair;Full-Stack+TypeScript+Engineer;Systems+Integration+Specialist)](https://git.io/typing-svg)
 
-And here I am exploring and honing my coding skills\
+15 years in software engineering, 11 of them integrating systems for enterprise clients.\
+From architecture to delivery, I build complete solutions end-to-end.
+
 Have a challenge for a Freelancer ? Let's Work Together
-[![email](assets/email.svg)](mailto:johan.chan@outlook.fr "sent me an email") [![linkedin](assets/linkedin.svg)](https://www.linkedin.com/in/johan-chan "Let's Go Networking") !
-
----
-
-### I have learned a lot thanks to :smile: [Le Reacteur](https://www.lereacteur.io/) and you can find below all the cool thing. Then I found a bunch of shiny stuff that I will play with it soon.
-
----
-
-#### Here are some project I have work on:
-
-[ReactNative - AirBnb](https://github.com/JConan/react-native_airbnb)
-
-[React - Memory Game](https://github.com/JConan/memory-game-challenge) [![wakatime](https://wakatime.com/badge/github/JConan/memory-game-challenge.svg)](https://wakatime.com/badge/github/JConan/memory-game-challenge)
+[![email](assets/email.svg)](mailto:me@johan-chan.fr "send me an email") [![linkedin](assets/linkedin.svg)](https://www.linkedin.com/in/johan-chan-dev "Let's Go Networking") !
 
 ---
 
 |                         Category                          | Cool Stuff                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | :-------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       [![Backend](assets/backend.svg)](# "Backend")       | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)                                                                                                                                                                                                                                                     |
-|     [![Frontend](assets/frontend.svg)](# "Frontend")      | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white) |
-|          [![Tools](assets/tools.svg)](# "Tools")          | ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)                                                                                                                                                                                                                                                                                           |
-| [![Services](assets/services.svg)](# "Service Providers") | ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)                                                                                                                                                                                                                                                                         |
+|       [![Backend](assets/backend.svg)](# "Backend")       | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)                                                                                                                                                     |
+|     [![Frontend](assets/frontend.svg)](# "Frontend")      | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+|       [![Tools](assets/tools.svg)](# "Tools")             | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)                                                                                                                                                                                           |
+| [![Services](assets/services.svg)](# "Service Providers") | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)                                                                                                                                                                                                                         |
+
+---
+
+#### Architecture & Patterns
+
+`Event-Driven` · `CQRS` · `RxJS` · `Reactive Systems` · `API Design (REST, SOAP, tRPC)`
 
 ---
 
 ### Some Numbers
 
-[![CSSBattle](assets/cssbattle.dev.svg)](https://cssbattle.dev/player/jconan)![Ranking...](https://img.shields.io/badge/dynamic/json?cacheSeconds=3600&color=%23FFDF00&label=&prefix=rank%20&query=rank&suffix=th&url=https%3A%2F%2Fcssbattle.dev%2Fapi%2FgetRank%3FuserId%3D9Odzg51joBRjqyk0dLSW7aUVbqr2)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JConan&layout=compact&theme=blue-green)
 
-#### [Wakatime Last 7 days](https://wakatime.com/@JConan)
-<!--START_SECTION:waka-->
+---
 
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
+*Available for freelance missions. Full remote, async communication.*
