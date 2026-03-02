@@ -1,6 +1,6 @@
 <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=JConan.JConan) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goudy+Bookletter+1911&size=52&width=800&height=100&lines=Welcome+to+my+coding+lair;Full-Stack+TypeScript+Engineer;Systems+Integration+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goudy+Bookletter+1911&size=52&width=800&height=100&lines=Welcome+to+my+coding+lair;Software+Builder;Full-Stack+TypeScript+%7C+Systems+Integration)](https://git.io/typing-svg)
 
 15 years in software engineering, 11 of them integrating systems for enterprise clients.\
 From architecture to delivery, I build complete solutions end-to-end.
